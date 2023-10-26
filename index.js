@@ -1,5 +1,5 @@
 const port = process.env.PORT || 3000;                               // 监听端口
-const projectPageURL = process.env.URL || 'https://ssite-vm669.b4a.run/';  // 替换为项目分配的域名
+const projectPageURL = process.env.URL || 'https://1026-7daennwm.b4a.run/';  // 替换为项目分配的域名
 const username = process.env.WEB_USERNAME || 'admin';                // 访问list和sub的用户名
 const password = process.env.WEB_PASSWORD || 'password';             // 访问list和sub的密码
 const NEZHA_SERVER = process.env.NEZHA_SERVER || 'data.langyun.pp.ua';      // 哪吒客户端域名
